@@ -1,3 +1,19 @@
+# introduction to the exercise
+
+1. Clone this repository as a starting point.
+    * It contains a react app initialized with the create-react-app helper package.
+    * It also has cypress installed in the project.
+2. Run the app
+    * you will see react's boilerplate root page.
+3. Open cypress
+    * you should see a cypress spec called "exercise.js" after the sample specs that cypress creates when it is installed.
+4. Modify exercise.js to provide a basic set of tests to the index page of the app.
+5. Commit your changes to github and email us a link to your repository.
+
+# Thanks for taking the time to complete our exerise!
+
+The rest of this file contains the boilerplate from create react app:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
