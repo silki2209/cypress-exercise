@@ -8,9 +8,10 @@
 3. Open cypress
     * you should see a cypress spec called "exercise.js" after the sample specs that cypress creates when it is installed.
 4. Modify exercise.js to provide a basic set of tests to the index page of the app.
-5. Commit your changes to github and email us a link to your repository.
+    * the boilerplate contains very few elements, so the test cases you add to exercise.js will be very simple.
+5. Commit your changes to a new github repo on an account you have access to and email us a link to your repository.
 
-# Thanks for taking the time to complete our exerise!
+# Thanks for taking the time to complete our exercise!
 
 The rest of this file contains the boilerplate from create react app:
 
